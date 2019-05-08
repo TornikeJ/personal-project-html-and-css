@@ -106,7 +106,6 @@ header nav .nav-container{
     background-color:white;
     display: flex;
     align-items:center;
-    margin-left: 35px;
 }
 header nav .nav-container .logo{
     display: inline-block;
@@ -119,6 +118,7 @@ header nav .nav-container .logo{
 header nav .nav-container div{
     display: flex;
     align-items: center;
+    margin-left: 4px;
 }
 header nav .nav-container div > span{
     font-size:35.69px;
